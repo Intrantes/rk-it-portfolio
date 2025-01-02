@@ -1,3 +1,3 @@
 # rk-it-portfolio
 
-My personal IT portfolio
+Robert Kepiro portfolio
